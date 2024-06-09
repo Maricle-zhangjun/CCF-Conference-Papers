@@ -3,8 +3,26 @@
 ---
 
 ## Content Lists
+- [2024 Accepted Papers](#2024)
 - [2023 Accepted Papers](#2023)
 - [2022 Accepted Papers](#2022)
+
+---
+
+<a name="2024" />
+
+### 2024 Accepted Papers
+
+| Rank | Conference Name | Paper List | Note |
+| :---: | :---: | :---: | :---: |
+| CCF-A | AAAI (AAAI Conference on Artificial Intelligence)| [URL](https://dblp.org/db/conf/aaai/aaai2024.html) |
+| CCF-A | NeurIPS (Conference on Neural Information Processing Systems)| [URL]() |
+| CCF-A | CVPR (IEEE/CVF Computer Vision and Pattern Recognition Conference)| [URL]() |
+| CCF-A | ICML (International Conference on Machine Learning)| [URL]() |
+| CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)| [URL]() |
+| CCF-A | ACM MM (ACM International Conference on Multimedia)| [URL]() |
+| CCF-B | ECCV (European Conference on Computer Vision)| [URL]() | 偶数年 |
+| - | ICLR (International Conference on Learning Representations)| [URL]() |
 
 ---
 
