@@ -1,5 +1,7 @@
 # CCF Conference Papers
 
+These are a collection of CCF conference papers in the area of artificial intelligence and computer vision since 2022.
+
 ---
 
 ## Content Lists
