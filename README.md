@@ -17,12 +17,12 @@
 | :---: | :---: | :---: | :---: |
 | CCF-A | AAAI (AAAI Conference on Artificial Intelligence)| [URL](https://dblp.org/db/conf/aaai/aaai2024.html) |
 | CCF-A | NeurIPS (Conference on Neural Information Processing Systems)|  |
-| CCF-A | CVPR (IEEE/CVF Computer Vision and Pattern Recognition Conference)|  |
-| CCF-A | ICML (International Conference on Machine Learning)|  |
-| CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)|  |
+| CCF-A | CVPR (IEEE/CVF Computer Vision and Pattern Recognition Conference)| [URL](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) |
+| CCF-A | ICML (International Conference on Machine Learning)| [URL](https://openreview.net/group?id=ICML.cc/2024/Conference#tab-accept-oral) |
+| CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)| [URL](https://ijcai24.org/main-track-accepted-papers/) |
 | CCF-A | ACM MM (ACM International Conference on Multimedia)|  |
 | CCF-B | ECCV (European Conference on Computer Vision)|  | 偶数年 |
-| - | ICLR (International Conference on Learning Representations)|  |
+| - | ICLR (International Conference on Learning Representations)| [URL](https://iclr.cc/virtual/2024/papers.html?filter=titles) |
 
 ---
 
