@@ -42,6 +42,7 @@ These are a collection of CCF conference papers in the area of artificial intell
 | CCF-A | ICML (International Conference on Machine Learning)| [URL](https://dblp.org/db/conf/icml/icml2023.html) |
 | CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)| [URL](https://dblp.org/db/conf/ijcai/ijcai2023.html) |
 | CCF-A | ACM MM (ACM International Conference on Multimedia)| [URL](https://dblp.org/db/conf/mm/mm2023.html) |
+| CCF-B | ICASSP (International Conference on Acoustics, Speech and Signal Processing)| [URL](https://ieeexplore.ieee.org/xpl/conhome/10094559/proceeding) |  |
 | - | ICLR (International Conference on Learning Representations)| [URL](https://dblp.org/db/conf/iclr/iclr2023.html) |
 
 ---
