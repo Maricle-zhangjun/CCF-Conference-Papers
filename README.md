@@ -29,6 +29,7 @@ These are a collection of CCF conference papers in the area of artificial intell
 | CCF-B | ECAI (European Conference on Artificial Intelligence)|  |
 | CCF-B | UAI (Conference on Uncertainty in Artificial Intelligence)| [URL](https://openreview.net/group?id=auai.org/UAI/2024/Conference#tab-accept-poster) |
 | - | ICLR (International Conference on Learning Representations)| [URL](https://iclr.cc/virtual/2024/papers.html?filter=titles) |
+| - | WACV (Winter Conference on Applications of Computer Vision)| [URL](https://openaccess.thecvf.com/WACV2024) |
 
 ---
 
@@ -50,6 +51,7 @@ These are a collection of CCF conference papers in the area of artificial intell
 | CCF-B | ECAI (European Conference on Artificial Intelligence)| [URL](https://dblp.org/db/conf/ecai/ecai2023.html) |
 | CCF-B | UAI (Conference on Uncertainty in Artificial Intelligence)| [URL](https://openreview.net/group?id=auai.org/UAI/2023/Conference#accept) |
 | - | ICLR (International Conference on Learning Representations)| [URL](https://dblp.org/db/conf/iclr/iclr2023.html) |
+| - | WACV (Winter Conference on Applications of Computer Vision)| [URL](https://openaccess.thecvf.com/WACV2023) |
 
 ---
 
@@ -71,5 +73,6 @@ These are a collection of CCF conference papers in the area of artificial intell
 | CCF-B | ECAI (European Conference on Artificial Intelligence)| [URL](https://ijcai-22.org/main-track-accepted-papers/) | IJCAI-ECAI |
 | CCF-B | UAI (Conference on Uncertainty in Artificial Intelligence)| [URL](https://dblp.org/db/conf/uai/uai2022.html) |
 | - | ICLR (International Conference on Learning Representations)| [URL](https://dblp.org/db/conf/iclr/iclr2022.html) |
+| - | WACV (Winter Conference on Applications of Computer Vision)| [URL](https://openaccess.thecvf.com/WACV2022) |
 
 ---
