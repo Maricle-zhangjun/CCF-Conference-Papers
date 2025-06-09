@@ -24,7 +24,7 @@ These are a collection of CCF conference papers in the area of artificial intell
 | CCF-A | ICML (International Conference on Machine Learning)| [URL](https://icml.cc/virtual/2025/papers.html) |
 | CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)|  |
 | CCF-A | ACM MM (ACM International Conference on Multimedia)|  |
-| CCF-B | ECCV (European Conference on Computer Vision)|  | 偶数年 |
+| CCF-B | ECCV (European Conference on Computer Vision)|  |  |
 | CCF-B | ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)| [URL](https://ieeexplore.ieee.org/xpl/conhome/10887540/proceeding?isnumber=10887541) |  |
 | CCF-B | ICME (IEEE International Conference on Multimedia & Expo)|  |
 | CCF-B | ECAI (European Conference on Artificial Intelligence)|  |
