@@ -5,9 +5,32 @@ These are a collection of CCF conference papers in the area of artificial intell
 ---
 
 ## Content Lists
+- [2025 Accepted Papers](#2025)
 - [2024 Accepted Papers](#2024)
 - [2023 Accepted Papers](#2023)
 - [2022 Accepted Papers](#2022)
+
+---
+
+<a name="2025" />
+
+### 2025 Accepted Papers
+
+| Rank | Conference Name | Paper List | Note |
+| :---: | :---: | :---: | :---: |
+| CCF-A | AAAI (AAAI Conference on Artificial Intelligence)| [URL](https://dblp.org/db/conf/aaai/aaai2024.html) |
+| CCF-A | NeurIPS (Conference on Neural Information Processing Systems)|  |
+| CCF-A | CVPR (IEEE/CVF Computer Vision and Pattern Recognition Conference)| [URL](https://openaccess.thecvf.com/CVPR2025?day=all) |
+| CCF-A | ICML (International Conference on Machine Learning)| [URL](https://openreview.net/group?id=ICML.cc/2024/Conference#tab-accept-oral) |
+| CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)| [URL](https://ijcai24.org/main-track-accepted-papers/) |
+| CCF-A | ACM MM (ACM International Conference on Multimedia)| [URL](https://openreview.net/group?id=acmmm.org/ACMMM/2024/Conference#tab-accept-oral)  |
+| CCF-B | ECCV (European Conference on Computer Vision)|  | 偶数年 |
+| CCF-B | ICASSP (IEEE International Conference on Acoustics, Speech and Signal Processing)| [URL](https://ieeexplore.ieee.org/xpl/conhome/10445798/proceeding) |  |
+| CCF-B | ICME (IEEE International Conference on Multimedia & Expo)|  |
+| CCF-B | ECAI (European Conference on Artificial Intelligence)|  |
+| CCF-B | UAI (Conference on Uncertainty in Artificial Intelligence)| [URL](https://openreview.net/group?id=auai.org/UAI/2024/Conference#tab-accept-poster) |
+| - | ICLR (International Conference on Learning Representations)| [URL](https://iclr.cc/virtual/2024/papers.html?filter=titles) |
+| - | WACV (IEEE Winter Conference on Applications of Computer Vision)| [URL](https://openaccess.thecvf.com/WACV2024) |
 
 ---
 
