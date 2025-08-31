@@ -1,6 +1,6 @@
 # CCF Conference Papers
 
-These are a collection of CCF conference papers in the area of artificial intelligence and computer vision since 2022.
+This is a collection of CCF conference papers in the area of artificial intelligence and computer vision since 2022.
 
 ---
 
@@ -21,6 +21,7 @@ These are a collection of CCF conference papers in the area of artificial intell
 | CCF-A | AAAI (AAAI Conference on Artificial Intelligence)|  |
 | CCF-A | NeurIPS (Conference on Neural Information Processing Systems)|  |
 | CCF-A | CVPR (IEEE/CVF Computer Vision and Pattern Recognition Conference)| [URL](https://openaccess.thecvf.com/CVPR2025?day=all) |
+| CCF-A | ICCV (International Conference on Computer Vision)| [URL](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) | 奇数年 |
 | CCF-A | ICML (International Conference on Machine Learning)| [URL](https://icml.cc/virtual/2025/papers.html) |
 | CCF-A | IJCAI (International Joint Conference on Artificial Intelligence)|  |
 | CCF-A | ACM MM (ACM International Conference on Multimedia)|  |
